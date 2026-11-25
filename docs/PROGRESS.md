@@ -1,5 +1,8 @@
 # État réel — mise à jour du 25 novembre 2026
 
+## Présentation GitHub
+README réorganisé pour les visiteurs : objectif, état actuel, fonctionnalités prévues, stack, principes et démarrage rapide. Les instructions détaillées de l'ancien README sont conservées dans DEVELOPMENT.md. Liens locaux du nouveau README vérifiés ; modification documentaire uniquement, sans changement applicatif ni nouvelle exécution des tests.
+
 ## Phase 1 — parsing PDF local autorisé et implémenté
 L'utilisateur a validé le démarrage de la phase 1, limité au parsing du CV PDF. Cette section remplace les mentions historiques « phase 1 non commencée » ci-dessous. L'extraction sémantique du profil, ESCO, retrieval, scoring, persistance et upload HTTP ne sont pas autorisés dans cette sous-étape.
 
